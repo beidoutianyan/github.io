@@ -61,232 +61,172 @@ CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-中央电视台7，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-中央电视台8，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV8，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-中央电视台9，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV9，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-中央电视台10，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV10，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-中央电视台12，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-中央电视台13，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-中央电视台14，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-中央电视台16，http：//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV16，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV1，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8？
-CCTV4，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8？
-CCTV4，http：//39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8？
-CCTV5，http：//39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8？
-CCTV5，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV7，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV9，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV9，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10，http：//222.71.90.218：8888/newlive/live/hls/11/live.m3u8
-CCTV10，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV13，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV13，https：//live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV13，http：//223.95.111.98：5555/newlive/live/hls/13/live.m3u8
-CCTV14，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16，http：//39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV16，http：//39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-1、http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-CETV2，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-CETV3，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-CGTN阿拉伯语，http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN西班牙语，http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN法国，http://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语，http://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN俄语，http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN纪实，https://livedoc.cgtn.com/500d/prog_index.m3u8
-CCTV-电视指南，http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-CCTV-风云音乐，http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV-怀旧剧场，http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-卫视，#genre#
-湖北卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226713/1.m3u8
-浙江卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226690/1.m3u8
-江苏卫视，http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-北京卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
-江西卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226682/1.m3u8
-贵州卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226672/1.m3u8
-山东卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226693/1.m3u8
-天津卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226686/1.m3u8
-安徽卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226655/1.m3u8
-东方卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226734/1.m3u8
-四川卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226659/1.m3u8
-广东卫视，http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-东南卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226670/1.m3u8
-河北卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226684/1.m3u8
-湖南卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226698/1.m3u8
-深圳卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226688/1.m3u8
-大湾区卫视，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-重庆卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226680/1.m3u8
-河南卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226668/1.m3u8
-辽宁卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226689/1.m3u8
-黑龙江卫视，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226716/1.m3u8
-西藏卫视，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-海南卫视，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
-兵团卫视，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-延边卫视，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-人间卫视，https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-农林卫视，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-炫动卡通，http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-体育休闲，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
-纪实人文，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
-北京体育休闲，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226656/1.m3u8
-北京体育休闲，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226658/1.m3u8
-石家庄新闻，http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-石家庄娱乐，http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-石家庄生活，http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-石家庄都市，http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
-保定新闻，http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-保定公共，http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-保定生活，http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-港台，#genre#
-摔跤，https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-台风，https：//sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8？hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三亚，https：//sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8？hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-人間衛視，https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-大愛台，https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+卫视,#genre#
+
+港台,#genre#
+三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+TVBS新聞,https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
+TVBS NEWS,https://yt-stream.livednow.com/stream/m_dhMSvUCIc/master.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森財經,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中天亞洲台,https://yt-stream.livednow.com/stream/s2waUruqze4/master.m3u8
+東森財經股市,https://yt-stream.livednow.com/stream/6gXbFIaRJt0/master.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+東森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
+華視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+華視戲劇,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+八大電視,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+超視34.5,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+三立新聞,https://yt-stream.livednow.com/stream/FoBfXvlOR6I/master.m3u8
+三立新聞+,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
+中天新聞2,https://yt-stream.livednow.com/stream/WPfPjbOLNfE/master.m3u8
+中天亞洲台,https://yt-stream.livednow.com/stream/s2waUruqze4/master.m3u8
+台視新聞台,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+公視新聞台,https://yt-stream.livednow.com/stream/quwqlazU-c8/master.m3u8
+東森新聞,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+東森新聞,https://yt-stream.livednow.com/stream/6gXbFIaRJt0/master.m3u8
+東森財經新聞,https://yt-stream.livednow.com/stream/WHEPzbFA3hw/master.m3u8
+中視新聞,https://yt-stream.livednow.com/stream/TCnaIE_SAtM/master.m3u8
+寰宇新聞台,https://yt-stream.livednow.com/stream/6IquAgfvYmc/master.m3u8
+中天新聞,https://yt-stream.livednow.com/stream/oIgbl7t0S_w/master.m3u8
+華視新聞,https://yt-stream.livednow.com/stream/wM0g8EoUZ_E/master.m3u8
+mnews 鏡新聞,https://yt-stream.livednow.com/stream/5n0y6b0Q25o/master.m3u8
+三立iNEWS,https://yt-stream.livednow.com/stream/CKjSm5ZeehE/master.m3u8
+民視新聞,https://yt-stream.livednow.com/stream/ylYJSBUgaMA/master.m3u8
+新唐人亞太電視台,https://yt-stream.livednow.com/stream/WIhgU_mc05A/master.m3u8
+民視戲劇,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8衛視電影,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.9衛視電影,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
+東森電影,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
+東森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u81:8081/hls/61/803/ch03.m3u8
+HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+
+摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+台风,https：//sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8？hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三亚,https：//sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8？hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+大愛台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 CR,#genre#
 花花公子 ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774045&extension=ts&play_token=VFnUEDgvPl
-菊花，http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
-EROXXX HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B9：87&stream=773973&extension=ts&play_token=VFnUEDgvPl
-骗子高清，http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774035&extension=ts&play_token=VFnUEDgvPl
-骗子高清，http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774030&extension=ts&play_token=VFnUEDgvPl
-ШAΛYH HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：D1：47&stream=773974&extension=ts&play_token=VFnUEDgvPl
-XY MIX HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：E8：80&stream=773975&extension=ts&play_token=VFnUEDgvPl
-1、http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774047&extension=ts&play_token=VFnUEDgvPl
-2、http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774048&extension=ts&play_token=VFnUEDgvPl
-3、http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774049&extension=ts&play_token=VFnUEDgvPl
-N1ADULT高清，http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D3:03&stream=773978&extension=ts&play_token=VFnUEDgvPl
-DORCELTV HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：D9：81&stream=773985&extension=ts&play_token=VFnUEDgvPl
-DORCELTV HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=774029&extension=ts&play_token=VFnUEDgvPl
-P PRIVATE HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=774032&extension=ts&play_token=VFnUEDgvPl
-DOEIT HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=774034&extension=ts&play_token=VFnUEDgvPl
-babestv HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：83&stream=773997&extension=ts&play_token=VFnUEDgvPl
-babestv HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=774028&extension=ts&play_token=VFnUEDgvPl
-宝贝高清，http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E4:79&stream=774020&extension=ts&play_token=VFnUEDgvPl
-热快感，http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774040&extension=ts&play_token=VFnUEDgvPl
-SL HOT-1，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=128764&extension=ts&play_token=VFnUEDgvPl
-SL HOT-2，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=267612&extension=ts&play_token=VFnUEDgvPl
-SL HOT-3，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=128770&extension=ts&play_token=VFnUEDgvPl
-SL HOT-4，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=138510&extension=ts&play_token=VFnUEDgvPl
-SL HOT-5，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=138526&extension=ts&play_token=VFnUEDgvPl
-SL HOT-6，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=138504&extension=ts&play_token=VFnUEDgvPl
-SL HOT-7，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=309877&extension=ts&play_token=VFnUEDgvPl
-SL HOT-8，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=309870&extension=ts&play_token=VFnUEDgvPl
-SL HOT-9，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B3：73&stream=309869&extension=ts&play_token=VFnUEDgvPl
-21自然，http：//185.182.193.203：25461/brianlstark/433754/66715
-21天然 http://185.182.193.203:25461/brianlstark/433754/66715
-VIP日语，http://iptvtree.net:8080/67e74f3b-10/38d644d82e/300912
-MMM 100，http：//185.182.193.203：25461/brianlstark/433754/70930
-爱家色情，http://185.182.193.203:25461/brianlstark/433754/70924
-假出租车，http://185.182.193.203:25461/brianlstark/433754/70905
-角质旅馆，http://185.182.193.203:25461/brianlstark/433754/70894
-BBC PIE，http：//185.182.193.203：25461/brianlstark/433754/70978
-VIP色情明星Belle Knox，http：//185.182.193.203：25461/brianlstark/433754/55548
-ToughLoveX，http：//185.182.193.203：25461/brianlstark/433754/66809
-性艺术，http://185.182.193.203:25461/brianlstark/433754/66795
-花花公子Plus，http：//185.182.193.203：25461/brianlstark/433754/66787
-NubileFilms，http：//185.182.193.203：25461/brianlstark/433754/66782
-FTVGirls，http：//185.182.193.203：25461/brianlstark/433754/66753
-邪恶天使，http://185.182.193.203:25461/brianlstark/433754/66742
-AV出租车，http://185.182.193.203:25461/brianlstark/433754/70925
-亚洲足交，http://185.182.193.203:25461/brianlstark/433754/70939
-最大J，http：//185.182.193.203：25461/brianlstark/433754/70937
-新感觉，http://185.182.193.203:25461/brianlstark/433754/70958
-多塞尔俱乐部，http://185.182.193.203:25461/brianlstark/433754/70946
-适合 18，http：//185.182.193.203：25461/brianlstark/433754/70955
-我的 18 TEENS，http：//185.182.193.203：25461/brianlstark/433754/70948
-DDF丰满，http://185.182.193.203:25461/brianlstark/433754/70949
-攻击闺蜜，http://185.182.193.203:25461/brianlstark/433754/70968
-妈妈 XXX，http：//185.182.193.203：25461/brianlstark/433754/7096
-♨️ 淫乱な女教師-波多野結衣，https://z100.cdn2020.com/video/m3u8/2019/08/07/b453fcff/index.m3u8
-♨️ 洗練された大人-上原亜衣，https://z100.cdn2020.com/video/m3u8/2019/08/12/eab995fc/index.m3u8
-♨️ 極上の女優 京野明日香，https://z100.cdn2020.com/video/m3u8/2019/08/27/7a4f390f/index.m3u8
-♨️ 熊倉しょうこ流出，https://z100.cdn2020.com/video/m3u8/2019/08/04/08e177af/index.m3u8
-♨️ 上原瑞穂流出，https://z100.cdn2020.com/video/m3u8/2019/08/12/65be5abc/index.m3u8
-♨️ お漏らし@美少女-上原結衣，https://z100.cdn2020.com/video/m3u8/2019/09/03/69bf35f0/index.m3u8
-♨️ 朝桐光だったらめちゃ，https://z100.cdn2020.com/video/m3u8/2019/09/13/95f5e67c/index.m3u8
-♨️ 東熱激情 雄汁流し込み特集，https://z100.cdn2020.com/video/m3u8/2019/11/28/19b06d46/index.m3u8
-♨️ 朝ゴミ出しする近所 双葉みお，https://z100.cdn2020.com/video/m3u8/2020/05/21/61f04e74/index.m3u8
-♨️ 女熱大陸 File.071-メイリン，https://z100.cdn2020.com/video/m3u8/2019/12/28/e72b6c73/index.m3u8
-♨️ 調教志願の可愛い女-花守みらい，https://z100.cdn2020.com/video/m3u8/2019/12/20/df262ea5/index.m3u8
-♨️ 極射 小川桃果，https://z100.cdn2020.com/video/m3u8/2019/12/19/32823fe5/index.m3u8
-♨️ すみれ美香が僕のプレイを褒め，https://z100.cdn2020.com/video/m3u8/2019/11/30/06702386/index.m3u8
-♨️ 調教してください-古瀬玲，https://z100.cdn2020.com/video/m3u8/2019/12/02/33b0fa7f/index.m3u8
-♨️ 中出しセックス-吉岡蓮美，https://z100.cdn2020.com/video/m3u8/2019/12/05/481df844/index.m3u8
-♨️ 柳田やよい，https://z100.cdn2020.com/video/m3u8/2019/11/28/f8c129f2/index.m3u8
-♨️ 戸田真琴流出，https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/76087a53/index.m3u8
-♨️ 黑丝美人OL-川瀬遥菜，https://t20.cdn2020.com/video/m3u8/2022/09/23/415a652a/index.m3u8
-♨️ 第一次拍摄AV就被各个男优依次，https://t20.cdn2020.com/video/m3u8/2022/09/30/bd2f6a6d/index.m3u8
-♨️ 为了留住公司的股东们社长，https://t21.cdn2020.com/video/m3u8/2023/01/06/3aeb871a/index.m3u8
-♨️ 爱泽花梨首次下马作品，https://t21.cdn2020.com/video/m3u8/2023/01/29/e656ed9e/index.m3u8
-♨️ 大絕頂高潮-二宮奈奈，https://t21.cdn2020.com/video/m3u8/2023/03/24/de0fc056/index.m3u8
-♨️ 後ろからヤル！-古瀬玲，https://z100.cdn2020.com/video/m3u8/2019/07/23/56e3928e/index.m3u8
-♨️ 美熟女の濃厚-HITOMI，https：//z100.cdn2020.com/video/m3u8/2019/07/23/9372b38e/index.m3u8
-♨️ 男の乳首を離しません3-藤嶋直，https://z100.cdn2020.com/video/m3u8/2019/07/29/b440c6bd/index.m3u8
-♨️ いずみの泉は常時満水，https://z100.cdn2020.com/video/m3u8/2019/08/10/29a5b750/index.m3u8
-♨️ 我不会放过它-鈴木さとみ，https://z100.cdn2020.com/video/m3u8/2019/08/20/228d3d4e/index.m3u8
-♨️ 連続中出し-百多えみり，https://z100.cdn2020.com/video/m3u8/2019/08/13/3e815cc3/index.m3u8
-♨️ 江波りゅう，https://z100.cdn2020.com/video/m3u8/2019/09/13/2b46b64c/index.m3u8
-♨️ 朝ゴミ出しする近所-彩月あかり，https://z100.cdn2020.com/video/m3u8/2020/07/25/2cec522d/index.m3u8
-♨️ 橋本美帆変則FUCKに驚愕，https://z100.cdn2020.com/video/m3u8/2020/07/24/07dd89a1/index.m3u8
-♨️AIKA膣膨満真正東熱孕汁，https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
-♨️ 美人校医- 飯島奈津美，https://z100.cdn2020.com/video/m3u8/2020/07/20/8f61697f/index.m3u8
-♨️ 榎本すみれ東熱極中出し，https://z100.cdn2020.com/video/m3u8/2020/07/19/3105fe90/index.m3u8
-♨️ 浅乃ハルミ東熱流3穴激カン，https://z100.cdn2020.com/video/m3u8/2020/07/18/ac0bd0ea/index.m3u8
-♨️ 白衣の変態輪カン調教孕汁，https://z100.cdn2020.com/video/m3u8/2020/07/17/9671e301/index.m3u8
-♨️SP2008part2，https：//z100.cdn2020.com/video/m3u8/2020/07/15/e68fe14f/index.m3u8
-♨️ 鬼逝 - 川野杏樹，https://z100.cdn2020.com/video/m3u8/2020/07/14/23bdb384/index.m3u8
-♨️ 変態女-古瀬玲，https://z100.cdn2020.com/video/m3u8/2020/07/13/8df89ffe/index.m3u8
-♨️ 妻の秘密 神波多一花，https://z100.cdn2020.com/video/m3u8/2020/07/12/6c12a001/index.m3u8
-♨️ 鬼逝-橘涼香，https://z100.cdn2020.com/video/m3u8/2020/07/10/0a17f7bf/index.m3u8
-♨️ 好色妻降臨-古瀬玲，https://z100.cdn2020.com/video/m3u8/2020/07/10/e464cce5/index.m3u8
-♨️ 黒人失神寸前-篠田あゆみ，https://z100.cdn2020.com/video/m3u8/2020/07/09/0c60b9bc/index.m3u8
-♨️ 中山美憂 園田ありさ，https://z100.cdn2020.com/video/m3u8/2020/07/07/61a670e7/index.m3u8
-♨️ 極上ボディの好色OL-百多えみり，https://z100.cdn2020.com/video/m3u8/2020/07/06/36a05675/index.m3u8
-♨️ ボクの性処理用-君島アンナ，https://z100.cdn2020.com/video/m3u8/2020/07/01/847d4870/index.m3u8
-♨️ 極上の自宅訪問-玲奈，https://z100.cdn2020.com/video/m3u8/2020/06/29/bc41dfce/index.m3u8
-♨️ エロメン月野帯人，https://z100.cdn2020.com/video/m3u8/2020/06/29/03704370/index.m3u8
-♨️ 視界侵入-立花瑠莉，https://z100.cdn2020.com/video/m3u8/2020/06/28/154d677d/index.m3u8
-♨️ 鬼逝 - 園田ありさ，https://z100.cdn2020.com/video/m3u8/2020/06/25/bfa72078/index.m3u8
-♨️ 芸能人と接吻-麻生めい，https://z100.cdn2020.com/video/m3u8/2020/06/24/8f3a26cc/index.m3u8
-♨️ 密着度120%-みづなれい，https://z100.cdn2020.com/video/m3u8/2020/06/23/77a3ba30/index.m3u8
-♨️3本連続-天音りん，https://z100.cdn2020.com/video/m3u8/2020/06/21/c92d1320/index.m3u8
-♨️ 精子連続注入-木村つな，https://z100.cdn2020.com/video/m3u8/2020/06/19/2e53afd7/index.m3u8
-♨️ 師は部活の後輩，https://z100.cdn2020.com/video/m3u8/2020/06/09/25844c37/index.m3u8
-♨️ 東熱2011 Part1，https：//z100.cdn2020.com/video/m3u8/2020/05/31/8eaa4be0/index.m3u8
-♨️ こってり濃厚激-小野寺梨紗，https://z100.cdn2020.com/video/m3u8/2020/05/24/5ec1542f/index.m3u8
-♨️ 女熱大陸 File.071-メイリン，https://z100.cdn2020.com/video/m3u8/2019/12/28/e72b6c73/index.m3u8
-♨️ 調教志願の可愛い女-花守みらい，https://z100.cdn2020.com/video/m3u8/2019/12/20/df262ea5/index.m3u8
-♨️ 極射 小川桃果，https://z100.cdn2020.com/video/m3u8/2019/12/19/32823fe5/index.m3u8
-♨️ 裏切り妻の淫靡な秘め事-佐倉ねね，https://z100.cdn2020.com/video/m3u8/2019/12/06/fd24d0b6/index.m3u8
-♨️ 中出しセックス-吉岡蓮美，https://z100.cdn2020.com/video/m3u8/2019/12/05/481df844/index.m3u8
-♨️ 調教してください-古瀬玲，https://z100.cdn2020.com/video/m3u8/2019/12/02/33b0fa7f/index.m3u8
-♨️ すみれ美香が僕のプレイを褒め，https://z100.cdn2020.com/video/m3u8/2019/11/30/06702386/index.m3u8
-♨️ 艶美女-上山奈々，https://z100.cdn2020.com/video/m3u8/2019/11/30/04055f79/index.m3u8
-♨️ 柳田やよい，https://z100.cdn2020.com/video/m3u8/2019/11/28/f8c129f2/index.m3u8
-♨️ 片桐えりりか，https://z100.cdn2020.com/video/m3u8/2019/11/28/dd99e4e0/index.m3u8
-♨️ マゾ乳生姦~小沢アリス，https://z100.cdn2020.com/video/m3u8/2019/11/28/f9cd6e2b/index.m3u8
-♨️ 東熱激情 雄汁流し込み特集 part8，https：//z100.cdn2020.com/video/m3u8/2019/11/28/19b06d46/index.m3u8
-♨️ アンコール Vol.6-美祢藤コウ，https://z100.cdn2020.com/video/m3u8/2019/11/26/e8ce7a72/index.m3u8
-♨️ パイパンまこかぱぁ-天海つばさ，https://z100.cdn2020.com/video/m3u8/2019/09/03/1c050665/index.m3u8
-♨️ 春日由衣のJAPORN初降臨，https://z100.cdn2020.com/video/m3u8/2019/09/03/7066ee15/index.m3u8
-♨️ 極上3穴中出し-朝桐光，https://z100.cdn2020.com/video/m3u8/2019/08/23/a393deb0/index.m3u8
-♨️ 極上泡姫物語 Vol.43-麻生希，https://z100.cdn2020.com/video/m3u8/2019/08/27/6f53e54d/index.m3u8
-♨️ 極上の女優 京野明日香，https://z100.cdn2020.com/video/m3u8/2019/08/27/7a4f390f/index.m3u8
-♨️ 前彷徨う潮姫-前田陽菜 ，https://z100.cdn2020.com/video/m3u8/2019/08/17/d5a9d839/index.m3u8
-♨️ 洗練された大人-上原亜衣，https://z100.cdn2020.com/video/m3u8/2019/08/12/eab995fc/index.m3u8
-♨️ 獨佔美人3姐妹，https://z100.cdn2020.com/video/m3u8/2019/08/07/37a833f2/index.m3u8
-♨️ 大量中出21岁小恶魔苗条女大学，https://z100.cdn2020.com/video/m3u8/2019/07/24/f8b20b80/index.m3u8
+菊花,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
+EROXXX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B9:87&stream=773973&extension=ts&play_token=VFnUEDgvPl
+HUSTLER ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774035&extension=ts&play_token=VFnUEDgvPl
+HUSTLER ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774030&extension=ts&play_token=VFnUEDgvPl
+ШAΛYH ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D1:47&stream=773974&extension=ts&play_token=VFnUEDgvPl
+XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
+1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774047&extension=ts&play_token=VFnUEDgvPl
+2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774048&extension=ts&play_token=VFnUEDgvPl
+3,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774049&extension=ts&play_token=VFnUEDgvPl
+N1ADULT ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D3:03&stream=773978&extension=ts&play_token=VFnUEDgvPl
+DORCELTV ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D9:81&stream=773985&extension=ts&play_token=VFnUEDgvPl
+DORCELTV ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774029&extension=ts&play_token=VFnUEDgvPl
+P PRIVATE ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774032&extension=ts&play_token=VFnUEDgvPl
+DOEIT ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774034&extension=ts&play_token=VFnUEDgvPl
+babestv ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:83&stream=773997&extension=ts&play_token=VFnUEDgvPl
+babestv ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774028&extension=ts&play_token=VFnUEDgvPl
+babes ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E4:79&stream=774020&extension=ts&play_token=VFnUEDgvPl
+HOT PLEASURE,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774040&extension=ts&play_token=VFnUEDgvPl
+SL HOT-1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128764&extension=ts&play_token=VFnUEDgvPl
+SL HOT-2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=267612&extension=ts&play_token=VFnUEDgvPl
+SL HOT-3,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128770&extension=ts&play_token=VFnUEDgvPl
+SL HOT-4,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138510&extension=ts&play_token=VFnUEDgvPl
+SL HOT-5,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138526&extension=ts&play_token=VFnUEDgvPl
+SL HOT-6,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138504&extension=ts&play_token=VFnUEDgvPl
+SL HOT-7,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309877&extension=ts&play_token=VFnUEDgvPl
+SL HOT-8,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309870&extension=ts&play_token=VFnUEDgvPl
+SL HOT-9,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309869&extension=ts&play_token=VFnUEDgvPl
+21Naturals,http://185.182.193.203:25461/brianlstark/433754/66715
+21Naturalshttp://185.182.193.203:25461/brianlstark/433754/66715
+VIP Japanese,http://iptvtree.net:8080/67e74f3b-10/38d644d82e/300912
+MMM 100,http://185.182.193.203:25461/brianlstark/433754/70930
+LOVE HOME PORN,http://185.182.193.203:25461/brianlstark/433754/70924
+FAKE TAXI,http://185.182.193.203:25461/brianlstark/433754/70905
+HORNY HOSTEL,http://185.182.193.203:25461/brianlstark/433754/70894
+BBC PIE,http://185.182.193.203:25461/brianlstark/433754/70978
+VIP PORNSTARS Belle Knox,http://185.182.193.203:25461/brianlstark/433754/55548
+ToughLoveX,http://185.182.193.203:25461/brianlstark/433754/66809
+SexArt,http://185.182.193.203:25461/brianlstark/433754/66795
+PlayboyPlus,http://185.182.193.203:25461/brianlstark/433754/66787
+NubileFilms,http://185.182.193.203:25461/brianlstark/433754/66782
+FTVGirls,http://185.182.193.203:25461/brianlstark/433754/66753
+EvilAngel,http://185.182.193.203:25461/brianlstark/433754/66742
+AV TAXI,http://185.182.193.203:25461/brianlstark/433754/70925
+ASIAN FOOTJOB,http://185.182.193.203:25461/brianlstark/433754/70939
+MAX J,http://185.182.193.203:25461/brianlstark/433754/70937
+NEW SENSATIONS,http://185.182.193.203:25461/brianlstark/433754/70958
+DORCEL CLUB,http://185.182.193.203:25461/brianlstark/433754/70946
+FIT 18,http://185.182.193.203:25461/brianlstark/433754/70955
+MY 18 TEENS,http://185.182.193.203:25461/brianlstark/433754/70948
+DDF BUSTY,http://185.182.193.203:25461/brianlstark/433754/70949
+ATK GIRLFRIENDS,http://185.182.193.203:25461/brianlstark/433754/70968
+MOM XXX,http://185.182.193.203:25461/brianlstark/433754/70969
+PureTaboo,http://78.47.224.234/puretaboo/index.m3u8
+ PornBox 1,http://23.237.100.82:8000/PLAYBOY/index.m3u8
+ PornBox 2,http://23.237.100.82:8000/HUSTLER/index.m3u8
+PornBox 3,http://23.237.100.82:8000/PENTHOUSE/index.m3u8 
+PornBox 4 http://23.237.100.82:8000/BRAZZERS/index.m3u8
+Brazzers HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Desire HD,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+Dorcel HD,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Hustsler HD,http://88.212.7.11/live/test_hustsler_hd_hevc/playlist.m3u8
+Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Eroxx,http://88.212.7.11/live/test_erox_hd_hevc/playlist.
+
