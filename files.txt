@@ -1,11 +1,11 @@
-央视，#genre#
-CCTV-1（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-1（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV-2（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV-2（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV-3（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV-3（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-CCTV-4（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+央视,#genre#
+CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-1,http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-2,http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-2,http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-3,http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-3,http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+CCTV-4,http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV-5（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+（1080p），http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
@@ -120,7 +120,7 @@ CCTV-怀旧剧场，http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122697
 从，https://ldncctvwbcdali.v.myalicdn.com/ldncctvwbcd/cdrmldcctv1_1td.m3u8
 王，https://video19.ifeng.com/video09/2023/11/17/p7131271278341661204-102-214304.mp4
 神鸟的故乡，https://us-xpc5.xpccdn.com/2bb0c821-6265-4242-892b-9855ed70fce3/c9bce413-6ad5-4b26-9aa5-4eb0f97f6ba9.mp4
-卫视，#genre#
+卫视,#genre#
 湖北卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226713/1.m3u8
 浙江卫视，http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226690/1.m3u8
 江苏卫视，http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -161,13 +161,13 @@ CCTV-怀旧剧场，http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122697
 保定新闻，http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共，http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活，http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-港台，#genre#
+港台,#genre#
 摔跤，https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 台风，https：//sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8？hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三亚，https：//sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8？hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 人間衛視，https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 大愛台，https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-CR，#genre#
+CR,#genre#
 花花公子 ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774045&extension=ts&play_token=VFnUEDgvPl
 菊花，http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
 EROXXX HD，http：//line.premiumpowers.net：80/play/live.php？mac=00：1A：79：BF：B9：87&stream=773973&extension=ts&play_token=VFnUEDgvPl
@@ -300,4 +300,3 @@ DDF丰满，http://185.182.193.203:25461/brianlstark/433754/70949
 ♨️ 洗練された大人-上原亜衣，https://z100.cdn2020.com/video/m3u8/2019/08/12/eab995fc/index.m3u8
 ♨️ 獨佔美人3姐妹，https://z100.cdn2020.com/video/m3u8/2019/08/07/37a833f2/index.m3u8
 ♨️ 大量中出21岁小恶魔苗条女大学，https://z100.cdn2020.com/video/m3u8/2019/07/24/f8b20b80/index.m3u8
-
