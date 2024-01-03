@@ -1,3 +1,209 @@
+央视,#genre#
+🇨🇳CCTV1FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+🇨🇳CCTV2FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+🇨🇳CCTV3FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+🇨🇳CCTV4FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+🇨🇳CCTV5FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+🇨🇳CCTV5+FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+🇨🇳CCTV6FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+🇨🇳CCTV7FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+🇨🇳CCTV8FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+🇨🇳CCTV9FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+🇨🇳CCTV10FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+🇨🇳CCTV11FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+🇨🇳CCTV12FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+🇨🇳CCTV13FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+🇨🇳CCTV14FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+🇨🇳CCTV15FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+🇨🇳CCTV16FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+🇨🇳CCTV17FHD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+🇨🇳CCTV18FHD,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+🇨🇳CCTV19FHD,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+🇨🇳CCTV21FHD,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+🇨🇳CCTV22FHD,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+🇨🇳CCTV23FHD,http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
+卫视,#genre#
+湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226713/1.m3u8
+浙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226690/1.m3u8
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226682/1.m3u8
+贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226672/1.m3u8
+山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226693/1.m3u8
+天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226686/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226655/1.m3u8
+东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226734/1.m3u8
+四川卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226659/1.m3u8
+广东卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226670/1.m3u8
+河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226684/1.m3u8
+湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226698/1.m3u8
+深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226688/1.m3u8
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226680/1.m3u8
+河南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226668/1.m3u8
+辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226689/1.m3u8
+黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226716/1.m3u8
+西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+炫动卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
+纪实人文,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
+北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226656/1.m3u8
+北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226658/1.m3u8
+石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+港台,#genre#
+摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+台风,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三亚,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+大愛台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+SP_888,#genre#
+Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
+Fake Taxi HD2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6202/index.m3u8
+Hot Guys Fuck,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6223/index.m3u8
+Interracial Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6224/index.m3u8
+Japan HDV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/index.m3u8
+Latina Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6226/index.m3u8
+Lesbea,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6227/index.m3u8
+Lesbian Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6228/index.m3u8
+Lethal Hardcore,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6229/index.m3u8
+Little Asians HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6230/index.m3u8
+Live Cams Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6231/index.m3u8
+Lust Cinema,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6232/index.m3u8
+MetArt HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6233/index.m3u8
+MILF Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6234/index.m3u8
+Monsters of Cock,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6235/index.m3u8
+MYLF TV HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6236/index.m3u8
+Naughty America,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6237/index.m3u8
+Nubiles TV HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6238/index.m3u8
+ox-ax HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6239/index.m3u8
+Pink Erotic 3,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6240/index.m3u8
+Pink Erotic 4,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6241/index.m3u8
+Playboy Plus,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6242/index.m3u8
+Pornstar Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6243/index.m3u8
+POV Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6244/index.m3u8
+Private HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6245/index.m3u8
+Public Agent,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6246/index.m3u8
+Reality Kings HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6247/index.m3u8
+RK Prime,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6248/index.m3u8
+RK TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6249/index.m3u8
+Rough Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6250/index.m3u8
+Russian Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6251/index.m3u8
+Sex With Muslims,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6252/index.m3u8
+SexArt,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6253/index.m3u8
+sext 6 senso,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6254/index.m3u8
+SINematica,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6255/index.m3u8
+Teen Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6256/index.m3u8
+Threesome Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6257/index.m3u8
+Tiny4K,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6258/index.m3u8
+Trans Angels,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6259/index.m3u8
+True Amateurs,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6260/index.m3u8
+Tushy HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6261/index.m3u8
+TushyRAW,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6262/index.m3u8
+Visit-X TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6263/index.m3u8
+Vivid TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6264/index.m3u8
+Vixen HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6265/index.m3u8
+We Live Together,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6266/index.m3u8
+White Boxxx,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6267/index.m3u8
+Wicked,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6268/index.m3u8
+Xpanded TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6269/index.m3u8
+Balkan Erotic,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6270/index.m3u8
+Red Lips,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6271/index.m3u8
+Emanuelle HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6272/index.m3u8
+Extreme,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6273/index.m3u8
+Fast Boyz,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6274/index.m3u8
+HOT,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6275/index.m3u8
+HOT XXL HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6276/index.m3u8
+Hot Pleasure,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6277/index.m3u8
+Playboy LA,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6280/index.m3u8
+Red XXX,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6281/index.m3u8
+Sexy Hot,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6282/index.m3u8
+Venus,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6284/index.m3u8
+X-MO,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6285/index.m3u8
+XY Max HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6286/index.m3u8
+XY Mix HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6287/index.m3u8
+XY Plus HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6288/index.m3u8
+Erotic,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6289/index.m3u8
+Erotic 2,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6290/index.m3u8
+Erotic 3,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6291/index.m3u8
+Erotic 4,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6292/index.m3u8
+Erotic 6,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6293/index.m3u8
+Erotic 7,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6294/index.m3u8
+Erotic 8,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6295/index.m3u8
+Erox HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6296/index.m3u8
+MvH Hard,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6297/index.m3u8
+SuperOne HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6298/index.m3u8
+Dorcel HD orig,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9064/index.m3u8
+Hustler HD orig,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9065/index.m3u8
+Redlight HD orig,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9066/index.m3u8
+Dorcel TV HD orig,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9067/index.m3u8
+O-La-La orig,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9068/index.m3u8
+PROKOPTV XXX HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/19401/index.m3u8
+SKY_HIGH_SEX_VR,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/19406/index.m3u8
+DE Blue Hustler,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20023/index.m3u8
+DE Lust pur HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20024/index.m3u8
+DE Penthouse Passion HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20025/index.m3u8
+DE Playboy Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20026/index.m3u8
+CineMan ExExEx,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20089/index.m3u8
+CineMan ExExEx TWO,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20090/index.m3u8
+Visit-X TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6263/index.m3u8
+Vivid TV Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6264/index.m3u8
+Vixen HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6265/index.m3u8
+We Live Together,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6266/index.m3u8
+White Boxxx,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6267/index.m3u8
+Wicked,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6268/index.m3u8
+Xpanded TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6269/index.m3u8
+Balkan Erotic,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6270/index.m3u8
+Red Lips,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6271/index.m3u8
+Emanuelle HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6272/index.m3u8
+Extreme,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6273/index.m3u8
+Fast Boyz,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6274/index.m3u8
+HOT,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6275/index.m3u8
+HOT XXL HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6276/index.m3u8
+Hot Pleasure,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6277/index.m3u8
+Playboy LA,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6280/index.m3u8
+Red XXX,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6281/index.m3u8
+Sexy Hot,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6282/index.m3u8
+Venus,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6284/index.m3u8
+X-MO,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6285/index.m3u8
+XY Max HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6286/index.m3u8
+XY Mix HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6287/index.m3u8
+XY Plus HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6288/index.m3u8
+Erotic,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6289/index.m3u8
+Erotic 2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6290/index.m3u8
+Erotic 3,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6291/index.m3u8
+Erotic 4,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6292/index.m3u8
+Erotic 6,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6293/index.m3u8
+Erotic 7,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6294/index.m3u8
+Erotic 8,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6295/index.m3u8
+Erox HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6296/index.m3u8
+MvH Hard,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6297/index.m3u8
+SuperOne HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6298/index.m3u8
+Dorcel HD orig,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/9064/index.m3u8
+Hustler HD orig,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/9065/index.m3u8
+Redlight HD orig,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/9066/index.m3u8
+Dorcel TV HD orig,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/9067/index.m3u8
+O-La-La orig,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/9068/index.m3u8
+PROKOPTV XXX HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/19401/index.m3u8
+SKY_HIGH_SEX_VR,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/19406/index.m3u8
+DE Blue Hustler,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20023/index.m3u8
+DE Lust pur HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20024/index.m3u8
+DE Penthouse Passion HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20025/index.m3u8
+DE Playboy Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20026/index.m3u8
+CineMan ExExEx,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20089/index.m3u8
+CineMan ExExEx TWO,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20090/index.m3u8
 攻击闺蜜,http://185.182.193.203:25461/brianlstark/433754/70968
 妈妈 XXX,http：//185.182.193.203：25461/brianlstark/433754/70969
 PureTaboo,http：//78.47.224.234/puretaboo/index.m3u8
