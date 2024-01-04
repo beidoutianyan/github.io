@@ -100,7 +100,6 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
@@ -146,7 +145,6 @@ TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 台視新聞台,https://fake-stream.livednow.com/youtube/xL0ch83RAK8?token=76452ebd0247f9f6b6d81953edfde617&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
 東森新聞台,https://yt-stream.livednow.com/stream/6gXbFIaRJt0/master.m3u8
 東森新聞,https://fake-stream.livednow.com/youtube/S5WOGu2HSes?token=d69959db36675917162d8fb605c1a312&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-
 中天新聞台,https://fake-stream.livednow.com/youtube/oIgbl7t0S_w?token=ea3c77d54feda21278b6114423908f58&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
 中天新聞2台,https://fake-stream.livednow.com/youtube/WPfPjbOLNfE?token=40bec3a31232c97c7a5423d89ace692b&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
 中天亞洲台,https://fake-stream.livednow.com/youtube/s2waUruqze4?token=2d8b533fc1ee27efe5db4fd2f5085a99&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
@@ -345,7 +343,6 @@ TVBS歡樂台,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 公視,http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 民視新聞,http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 SP_888,#genre#
-PornBox4,http://23.237.100.82:8000/BRAZZERS/index.m3u8
 Brazzers HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 Desire HD,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
 Dorcel HD,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
