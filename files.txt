@@ -55,6 +55,9 @@
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+时装台,#genre#
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+時尚台Ftvv,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 港台,#genre#
 台视,http://60.248.77.83/sat/tv071.flv
 中视,http://60.248.77.83/sat/tv091.flv
