@@ -1,11 +1,3 @@
-成人,#genre#
-PornBox4,http://23.237.100.82:8000/BRAZZERS/index.m3u8
-Brazzers HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-Desire HD,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-Dorcel HD,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Eroxx,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-PureTaboo,http://78.47.224.234/puretaboo/index.m3u8
 央视,#genre#
 🇨🇳CCTV18FHD,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 🇨🇳CCTV19FHD,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
@@ -552,6 +544,13 @@ ELEVEN1台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdad
 亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8
 中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8
 SP_888,#genre#
+PornBox4,http://23.237.100.82:8000/BRAZZERS/index.m3u8
+Brazzers HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Desire HD,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+Dorcel HD,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Eroxx,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+PureTaboo,http://78.47.224.234/puretaboo/index.m3u8
 LOOK TV,mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
 HAPPY,mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
 极限台,P2p://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
