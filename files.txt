@@ -557,6 +557,15 @@ ELEVEN1台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdad
 梯台,#genre#
 亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8
 中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8
+美东台,https://live.ntdtv.com/live900/playlist.m3u8
+美西台,https://live.ntdtv.com/uwlive990/playlist.m3u8
+欧洲台,https://live.ntdtv.com/eulive600/playlist.m3u8
+加东台,https://live.ntdtv.com/mllive860/playlist.m3u8
+加西台,https://live.ntdtv.com/cwlive220/playlist.m3u8
+旧金山台,https://live.ntdtv.com/sflive990/playlist.m3u8
+休斯顿台,https://live.ntdtv.com/htlive480/playlist.m3u8
+亚太台1,https://live.ntdtv.com/aplive200/playlist.m3u8
+中国台1,https://live.ntdtv.com/cnlive900/playlist.m3u8
 松视_888,#genre#
 松视1台,http://45.89.104.154:8898/gaoying336.php?id=946
 松视2台,http://45.89.104.154:8898/gaoying336.php?id=947
