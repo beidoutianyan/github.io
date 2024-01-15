@@ -557,6 +557,20 @@ ELEVEN1台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdad
 梯台,#genre#
 亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8
 中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8
+松视_888,#genre#
+松视1台,http://45.89.104.154:8898/gaoying336.php?id=946
+松视2台,http://45.89.104.154:8898/gaoying336.php?id=947
+松视3台,http://45.89.104.154:8898/gaoying336.php?id=948
+彩虹频道,http://45.89.104.154:8898/gaoying336.php?id=949
+彩虹E台,http://45.89.104.154:8898/gaoying336.php?id=950
+彩虹K台,http://45.89.104.154:8898/gaoying336.php?id=951
+彩虹电影台,http://45.89.104.154:8898/gaoying336.php?id=952
+潘朵啦玩美台,http://45.89.104.154:8898/gaoying336.php?id=953
+極限電影台,http://45.89.104.154:8898/gaoying336.php?id=954
+惊艳台,http://45.89.104.154:8898/gaoying336.php?id=955
+香蕉台,http://45.89.104.154:8898/gaoying336.php?id=956
+Happy,http://45.89.104.154:8898/gaoying336.php?id=957
+LOOK,http://45.89.104.154:8898/gaoying336.php?id=958
 SP_888,#genre#
 Brazzers HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 Desire HD,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
