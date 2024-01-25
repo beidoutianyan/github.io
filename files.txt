@@ -69,9 +69,10 @@
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+香港台,#genre#
+凤凰中文HD,http://113.117.74.133:8081/hls/37/index.m3u8
+凤凰资讯HD,http://113.117.74.133:8081/hls/36/index.m3u8
+香港台,http://113.117.74.133:8081/hls/38/index.m3u8
 时装台,#genre#
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台Ftvv,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
