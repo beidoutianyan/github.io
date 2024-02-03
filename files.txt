@@ -625,7 +625,7 @@ DISCOVERY ASIA [ASTRO],http://4ksuper.live:80/Patricia/Patricia123/571181
 ASIAN FOOD CHANNEL,http://4ksuper.live:80/Patricia/Patricia123/534440
 梯台,#genre#
 亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8#https://live.ntdtv.com/aplive200/playlist.m3u8
-中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8 https://live.ntdtv.com/cnlive900/playlist.m3u8
+中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8https://live.ntdtv.com/cnlive900/playlist.m3u8
 美东台,https://live.ntdtv.com/live900/playlist.m3u8
 美西台,https://live.ntdtv.com/uwlive990/playlist.m3u8
 欧洲台,https://live.ntdtv.com/eulive600/playlist.m3u8
