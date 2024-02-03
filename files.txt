@@ -624,8 +624,8 @@ CELESTIAL CLASSIC MOVIES [ASTRO],http://4ksuper.live:80/Patricia/Patricia123/571
 DISCOVERY ASIA [ASTRO],http://4ksuper.live:80/Patricia/Patricia123/571181
 ASIAN FOOD CHANNEL,http://4ksuper.live:80/Patricia/Patricia123/534440
 梯台,#genre#
-亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8
-中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8
+亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8#https://live.ntdtv.com/aplive200/playlist.m3u8
+中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8 https://live.ntdtv.com/cnlive900/playlist.m3u8
 美东台,https://live.ntdtv.com/live900/playlist.m3u8
 美西台,https://live.ntdtv.com/uwlive990/playlist.m3u8
 欧洲台,https://live.ntdtv.com/eulive600/playlist.m3u8
@@ -633,8 +633,6 @@ ASIAN FOOD CHANNEL,http://4ksuper.live:80/Patricia/Patricia123/534440
 加西台,https://live.ntdtv.com/cwlive220/playlist.m3u8
 旧金山台,https://live.ntdtv.com/sflive990/playlist.m3u8
 休斯顿台,https://live.ntdtv.com/htlive480/playlist.m3u8
-亚太台1,https://live.ntdtv.com/aplive200/playlist.m3u8
-中国台1,https://live.ntdtv.com/cnlive900/playlist.m3u8
 🔞💋松视_888,#genre#
 彩虹e台,mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
 彩虹电影台,mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
