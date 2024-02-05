@@ -73,9 +73,14 @@
 凤凰中文HD,http://113.117.74.133:8081/hls/37/index.m3u8
 凤凰资讯HD,http://113.117.74.133:8081/hls/36/index.m3u8
 香港台,http://113.117.74.133:8081/hls/38/index.m3u8
-时装台,#genre#
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-時尚台Ftvv,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+新闻台,#genre#
+中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+年代新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+台视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 梯台,#genre#
 亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8#https://live.ntdtv.com/aplive200/playlist.m3u8
 中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8#https://live.ntdtv.com/cnlive900/playlist.m3u8
@@ -99,7 +104,7 @@ LOOK TV,mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
 HAPPY,mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
 JStar极限台,mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
 K,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
-SP_888,#genre#
+🔞💋SP_888,#genre#
 Brazzers HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 Desire HD,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
 Dorcel HD,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
