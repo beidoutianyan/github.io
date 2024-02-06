@@ -19,6 +19,7 @@
 🇨🇳CCTV22FHD,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 🇨🇳CCTV23FHD,http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
 卫视,#genre#
+北京卫视,http://113.117.74.133:8081/hls/45/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -70,9 +71,9 @@
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 香港台,#genre#
-凤凰中文HD,http://113.117.74.133:8081/hls/37/index.m3u8
-凤凰资讯HD,http://113.117.74.133:8081/hls/36/index.m3u8
-香港台,http://113.117.74.133:8081/hls/38/index.m3u8
+凤凰中文台HD,http://113.117.74.133:8081/hls/37/index.m3u8
+凤凰资讯台HD,http://113.117.74.133:8081/hls/36/index.m3u8
+香港台HD,http://113.117.74.133:8081/hls/38/index.m3u8
 新闻台,#genre#
 中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
