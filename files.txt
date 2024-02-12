@@ -73,6 +73,7 @@
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 香港台,#genre#
+摔跤,https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 凤凰中文,http://113.117.74.130:8081/hls/37/index.m3u8
 凤凰资讯,http://113.117.74.74:8081/hls/36/index.m3u8
 凤凰香港,http://113.117.74.130:8081/hls/38/index.m3u8
