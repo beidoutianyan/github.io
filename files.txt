@@ -75,6 +75,8 @@
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 香港台,#genre#
+凤凰中文HD,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰资讯HD,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 摔跤,https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 香港卫视,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 TVB.星河,http://113.117.74.183:8081/hls/135/index.m3u8
