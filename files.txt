@@ -75,49 +75,65 @@
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 💘香港台秒开,#genre#
-鳳凰中文,https://ali.hlspull.yximgs.com/live/1ea4cfd085e9b8dac60c3afef436cf03.flv
-鳳凰資訊,https://ali.hlspull.yximgs.com/live/322c34907826fb255de5dd8d952498ef.flv
-鳳凰香港,https://ali.hlspull.yximgs.com/live/047bb4ca872f24a1eae7b72085e286a7.flv
-now新闻台,http://ali.hlspull.yximgs.com/live/nowxwrrrt3a98251300-agjKGVSKsKvbj.flv
-now新闻台,http://ali.hlspull.yximgs.com/live/uggtcpxQEJmDuzDnplzFFDivGthHjFMz.flv
-now爆谷台,http://ali.hlspull.yximgs.com/live/sUcmyWxY54dPexpddCxfg3JzOotPfY2Z.flv
-翡翠台,https://ali.hlspull.yximgs.com/live/bbc863fd3ea95fb287e309745c7f83d5.flv
-美亚电影台(粵),https://ali.hlspull.yximgs.com/live/9f7b63eda27532b0f412f568e04c92fc.flv
-黃金華劇台,https://ali.hlspull.yximgs.com/live/01675fa8dc986b06669b8539227ff351.flv
-無綫新聞台,https://ali.hlspull.yximgs.com/live/d60a27dc89e1769569f7688e74ee8de4.flv
-三立都會,https://ali.hlspull.yximgs.com/live/358e2f6611533537163f6290ef0a7d1b.flv
-三立台灣,https://ali.hlspull.yximgs.com/live/5c21781eb86d9516f076a4a75b45fd36.flv
-三立戲劇,https://ali.hlspull.yximgs.com/live/afdbd78e610c1c4ab624dd1f2820cc58.flv
-JET綜合,https://ali.hlspull.yximgs.com/live/2ba925809e52b0ca6219d305bb8361fd.flv
-東風衛視,https://ali.hlspull.yximgs.com/live/4b2b589a4105bd5bd52892e007ba86bf.flv
-年代MUCH,https://ali.hlspull.yximgs.com/live/125f3943117960a58412f2774b4d9361.flv
-纬来体育,http://ali.hlspull.yximgs.com/live/WOBaqsF7NS9LsfXma2uaRPkJSjvkR9eE.flv
-緯來體育,https://ali.hlspull.yximgs.com/live/089e619df8f7f30717a8734373251d9a.flv
-緯來體育,https://ali.hlspull.yximgs.com/live/dbc1a3d18148242def2c7a4241b22d28.flv
-中天新聞,https://ali.hlspull.yximgs.com/live/e3afa73dc4984113459ee90b7994ece4.flv
-中天新聞,https://ali.hlspull.yximgs.com/live/ef167eeabe314c1f970d2a4883bb00a3.flv
-中天新聞2,https://ali.hlspull.yximgs.com/live/a19bf866c33f4f5e44acd4a3635bf717.flv
-東森新聞,https://ali.hlspull.yximgs.com/live/5154404f9b2246089049acf42008092c.flv
-東森新聞,https://ali.hlspull.yximgs.com/live/e8b7f5faa066dca580737cb84695463d.flv
-環宇新聞,https://ali.hlspull.yximgs.com/live/b7a23ec41956951942ac2926d0d7900e.flv
-環宇新聞,http://glive.grtn.cn/live/2a84ce651b7bfeaebc52393be3be5972.flv
-TVBS新聞,http://glive.grtn.cn/live/389c9a2355bd2029f1c79b7190cbb803.flv
-華視新聞,http://glive.grtn.cn/live/d37fb506db70d16410f30850421cc1e2.flv
-華視新聞,https://ali.hlspull.yximgs.com/live/be66a181b334dddee6156e71f3bc3282.flv
-中視新聞,https://ali.hlspull.yximgs.com/live/c27419a3743a315e5b06f86b13866b58.flv
-台視新聞,http://glive.grtn.cn/live/a95a03750f4ea78130bbdccbaf2da278.flv
-民視新聞,http://glive.grtn.cn/live/fc971a40c86ac571d10037a1c31d2d51.flv
-民視新聞,https://ali.hlspull.yximgs.com/live/f900c729506721d131f2bc07e8b8bfb5.flv
-三立新聞,https://ali.hlspull.yximgs.com/live/da45615ee3643e34ea2f860c21135443.flv
-三立新聞,https://ali.hlspull.yximgs.com/live/76daa29d74608bf03e286d1632040d7f.flv
-年代新聞,https://ali.hlspull.yximgs.com/live/c8489260938a11b3808af6f1c4f06c30.flv
-壹新聞,https://ali.hlspull.yximgs.com/live/501c4ed41ff35e3f0cb895bd170a812e.flv
-非凡新聞,https://ali.hlspull.yximgs.com/live/1c6df6ac5ddffddd900d5c9b728d2f98.flv
-鏡新聞,https://ali.hlspull.yximgs.com/live/d7ba97dcde16874f1a42df8fcc182695.flv
-環宇台灣,https://ali.hlspull.yximgs.com/live/3985796df3a29b145765e1c368e02fa6.flv
-東森財經新聞,https://ali.hlspull.yximgs.com/live/24c7fed5c2562eaf109957fc2b100a23.flv
-三立財經新聞,https://ali.hlspull.yximgs.com/live/61edfeed1768ddef61c56bc0a71cb8d3.flv
-
+猪哥会社,http://119.23.61.191:8088/TW/zghs/hls.m3u8
+万秀猪王,http://119.23.61.191:8088/TW/wxzw/hls.m3u8
+东森新闻,http://119.23.61.191:8088/TW/dsxw/hls.m3u8
+公视新闻,http://119.23.61.191:8088/TW/gsxw/hls.m3u8
+华视新闻,http://119.23.61.191:8088/TW/hsxw/hls.m3u8
+寰宇新闻,http://119.23.61.191:8088/TW/hyxw/hls.m3u8
+寰宇新闻台湾,http://119.23.61.191:8088/TW/hyxwtw/hls.m3u8
+镜新闻,http://119.23.61.191:8088/TW/jxw/hls.m3u8
+(2线)民视新闻,http://119.23.61.191:8088/TW/msxw/hls.m3u8
+(2线)三立海外,http://119.23.61.191:8088/TW/slhw/hls.m3u8
+(2线)三立海外+,http://119.23.61.191:8088/TW/slhwj/hls.m3u8
+(2线)台视新闻,http://119.23.61.191:8088/TW/tsxw/hls.m3u8
+(2线)TVBS,http://119.23.61.191:8088/TW/tvbs/hls.m3u8
+(2线)中视新闻,http://119.23.61.191:8088/TW/zsxw/hls.m3u8
+(2线)中天新闻,http://119.23.61.191:8088/TW/ztxw/hls.m3u8
+(2线)中天新闻2,http://119.23.61.191:8088/TW/ztxw2/hls.m3u8
+(2线)中天亜州,http://119.23.61.191:8088/TW/ztyz/hls.m3u8
+now新闻切片,http://8.134.88.173:9092/HK/nowxw/hls.m3u8
+(1线)now爆谷切片,http://8.134.88.173:9092/HK/nowbg/hls.m3u8
+(1线)now星影切片,http://8.134.88.173:9092/HK/nowxy/hls.m3u8
+(1线)美亚电影,http://8.134.88.173:9092/HK/mydy/hls.m3u8
+(1线)有线18,http://8.134.88.173:9092/HK/yx18/hls.m3u8
+(1线)j2,http://8.134.88.173:9092/HK/22/hls.m3u8
+(1线)hoy77,http://8.134.88.173:9092/HK/hoy77/hls.m3u8
+(1线)hoy78,http://8.134.88.173:9092/HK/hoy78/hls.m3u8
+(1线)j5,http://8.134.88.173:9092/HK/j5/hls.m3u8
+(1线)翡翠,http://8.134.88.173:9092/HK/tvb/hls.m3u8
+(1线)广电翡翠,http://8.134.88.173:9092/GN/gdfc/hls.m3u8
+(1线)广电翡翠2,http://8.134.88.173:9092/GN/gdfc2/hls.m3u8
+(1线)明珠,http://8.134.88.173:9092/HK/mz/hls.m3u8
+(1线)viu,http://8.134.88.173:9092/HK/viu/hls.m3u8
+(1线)viu6,http://8.134.88.173:9092/HK/viu6/hls.m3u8
+(1线)无线新闻,http://8.134.88.173:9092/HK/wxxw/hls.m3u8
+(1线)凤凰中文,http://8.134.88.173:9092/HK/fhzw/hls.m3u8
+(1线)凤凰香港,http://8.134.88.173:9092/HK/fhxg/hls.m3u8
+(1线)凤凰咨询,http://8.134.88.173:9092/HK/fhzx/hls.m3u8
+(1线)功夫台,http://8.134.88.173:9092/HK/gf/hls.m3u8
+(1线)娱乐新闻,http://8.134.88.173:9092/HK/ylxw/hls.m3u8
+(1线)星河,http://8.134.88.173:9092/HK/xh/hls.m3u8
+(3线)j2,http://223.71.206.22:30080/HK/2/hls.m3u8
+(3线)hoy77,http://223.71.206.22:30080/HK/hoy77/hls.m3u8
+(3线)hoy78,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
+(3线)j5,http://223.71.206.22:30080/HK/j5/hls.m3u8
+(3线)翡翠,http://223.71.206.22:30080/HK/tvb/hls.m3u8
+(3线)广电翡翠,http://223.71.206.22:30080/GN/gdfc/hls.m3u8
+(3线)明珠,http://223.71.206.22:30080/HK/mz/hls.m3u8
+(3线)viu,http://223.71.206.22:30080/HK/viu/hls.m3u8
+(3线)viu6,http://223.71.206.22:30080/HK/viu6/hls.m3u8
+(3线)无线新闻,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
+(3线)凤凰中文,http://223.71.206.22:30080/HK/fhzw/hls.m3u8
+(3线)凤凰香港,http://223.71.206.22:30080/HK/fhxg/hls.m3u8
+(3线)凤凰咨询,http://223.71.206.22:30080/HK/fhzx/hls.m3u8
+(3线)功夫台,http://223.71.206.22:30080/HK/gf/hls.m3u8
+(3线)娱乐新闻,http://223.71.206.22:30080/HK/ylxw/hls.m3u8
+(3线)星河,http://223.71.206.22:30080/HK/xh/hls.m3u8
+(3线)中天新闻,http://223.71.206.22:30080/TW/ztxw/hls.m3u8
+(3线)中天新闻2,http://223.71.206.22:30080/TW/ztxw2/hls.m3u8
+(3线)华视新闻,http://223.71.206.22:30080/TW/hsxw/hls.m3u8
+(3线)中视,http://223.71.206.22:30080/TW/zs/hls.m3u8
 香港台,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
