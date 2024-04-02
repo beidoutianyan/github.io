@@ -156,6 +156,13 @@ TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+凤凰资讯HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人亚太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+猪哥会社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+寰宇财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+电影台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+生活频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
 梯台,#genre#
 亞太臺,https://live.ntdtv.com/aplive200/playlist.m3u8#https://live.ntdtv.com/aplive200/playlist.m3u8
 中國臺,https://live.ntdtv.com/cnlive900/playlist.m3u8#https://live.ntdtv.com/cnlive900/playlist.m3u8
