@@ -334,7 +334,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/32fad5843f9d9c3cb685bae826856acf/ind
 新时代西部,https://z88.ubtvfans.com/live/rx3/1287/dc127a53da799d357f8951a2d9f7aa23/index.m3u8
 新时代2,https://z88.ubtvfans.com/live/rx3/1288/00ac0fea3fafa7b991bfee63ce1c5850/index.m3u8
 TVB星河,https://z88.ubtvfans.com/live/rx4/1079/5c3f0a081da1a530f171486f6931c93a/index.m3u8
-🔞梯台,#genre#
+🔞梯台_888,#genre#
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
 松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
