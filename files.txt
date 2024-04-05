@@ -334,6 +334,40 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/32fad5843f9d9c3cb685bae826856acf/ind
 新时代西部,https://z88.ubtvfans.com/live/rx3/1287/dc127a53da799d357f8951a2d9f7aa23/index.m3u8
 新时代2,https://z88.ubtvfans.com/live/rx3/1288/00ac0fea3fafa7b991bfee63ce1c5850/index.m3u8
 TVB星河,https://z88.ubtvfans.com/live/rx4/1079/5c3f0a081da1a530f171486f6931c93a/index.m3u8
+🔞梯台,#genre#
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+CGNTV1,http://live.cgtn.com/1000/prog_index.m3u8
+CGNTV2,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGNTV3,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGNTV4,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGNTV5,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
+CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CM+,http://ali.hlspull.yximgs.com/live/cmjia4568264t3a88221300-dhoadhlabhkkl.flv
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+japanhdv,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6225/index.m3u8
+KIX,http://ali.hlspull.yximgs.com/live/kix264t3a88221300-dhoadhlabhkkl.flv
+THAIPBS3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+TVB 亚洲武侠台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVBS,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
+港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 🔞松视_888,#genre#
 松视1台HD,https://18.svi-studio.com/live/673960949860/294164781253/05.m3u8
 松视2台HD,https://18.svi-studio.com/live/673960949860/294164781253/06.m3u8
