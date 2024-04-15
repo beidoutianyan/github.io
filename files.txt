@@ -91,6 +91,86 @@ TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3
 港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+📼电影持续更新,#genre#
+国际空间站,https://v.cdnlz12.com/20230913/10341_d0be8370/index.m3u8
+十三太保之风云再起,https://s5.bfengbf.com/video/shisantaibaozhifengyunzaiqi/HD/index.m3u8
+罪恶名20202020单,https://vip.ffzy-play2.com/20240316/60003_d5b566e5/index.m3u8
+幽灵螳螂1,https://vip.lz-cdn3.com/20230213/17685_7205d5aa/index.m3u8
+幽灵螳螂2,https://s5.bfengbf.com/video/youlingtanglangIIzhitubian/HD/index.m3u8
+挑战2023,https://jx.sumun.cn/Vtche/LZ/466900376.m3u8
+怒潮2023,https://64.32.20.246/play/DdwzD5Mb/index.m3u8
+🔥新九品芝麻官2024,https://s5.bfengbf.com/video/xinjiupinzhimaguan2024/HD/index.m3u8
+弹头奇兵,https://yzzy.play-cdn21.com/20240318/12046_562785ce/index.m3u8
+[韩]破墓TC,https://s5.bfengbf.com/video/pomu/%E4%B8%AD%E5%AD%97/index.m3u8
+🔥潜行,https://yzzy1.play-cdn20.com/20240314/19480_87c97112/index.m3u8
+蜘蛛夫人：超感觉醒,https://yzzy.play-cdn21.com/20240315/9646_b4328d07/index.m3u8
+末日战士,https://v.cdnlz12.com/20240313/12834_ce325fe0/index.m3u8
+周公伏妖,https://v.cdnlz12.com/20240313/12832_28e8b06c/index.m3u8
+少女斗恶龙,https://v.cdnlz12.com/20240308/12567_d5565b64/index.m3u8
+🔥临时劫案,https://v.cdnlz12.com/20240306/12466_cad8e71b/2000k/hls/mixed.m3u8#https://yzzy.play-cdn19.com/20240306/22153_c54de4da/2000k/hls/mixed.m3u8
+🔥周处除三害,https://vip.ffzyread.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
+陌路狂刀,https://v.cdnlz12.com/20240308/12526_77ee2ef5/2000k/hls/mixed.m3u8#https://yzzy1.play-cdn1.com/20240308/19202_84e12afe/2000k/hls/mixed.m3u8
+聊斋志异之瞳人语,https://yzzy1.play-cdn20.com/20240305/18516_cd41cda3/2000k/hls/mixed.m3u8#https://hn.bfvvs.com/play/RdGJDE0b/index.m3u8
+[智利]雕形拳,https://vip1.lz-cdn1.com/20230608/21094_b12a3627/2000k/hls/mixed.m3u8
+🔥热辣滚烫TC,https://vip.ffzy-online2.com/20240216/48497_7124419f/2000k/hls/mixed.m3u8#https://vip.ffzy-online2.com/20240216/48497_7124419f/index.m3u8
+🔥第二十条TC,https://v.cdnlz12.com/20240215/11572_dda99b8e/2000k/hls/mixed.m3u8
+🔥飞驰人生2TC,https://ikcdn01.ikzybf.com/20240212/jjCpFTXC/2000kb/hls/index.m3u8
+🔥目中无人2,https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/2000k/hls/index.m3u8
+战锋·尖峰对决,https://vip.ffzy-online6.com/20240221/26640_7e77660f/2000k/hls/index.m3u8
+惊天激战[美],https://v.cdnlz19.com/20240219/17331_1e41d0fd/2000k/hls/mixed.m3u8
+外星+人2[韩],https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
+破战,https://yzzy1.play-cdn20.com/20240216/17014_96791511/2000k/hls/mixed.m3u8
+金手指,https://ikcdn01.ikzybf.com/20240213/xZTh2qQA/2000kb/hls/index.m3u8
+缉恶,https://yzzy1.play-cdn1.com/20240212/16107_ce5c69e6/2000k/hls/index.m3u8
+狄仁杰之通天玄案,https://vip.ffzy-online6.com/20240224/26792_f29d9bc5/index.m3u8
+热血地雷战,https://s5.bfengbf.com/video/rexuedileizhan/HD/index.m3u8
+古楼镇陵宫,https://v.cdnlz12.com/20240222/11772_cc17a068/2000k/hls/mixed.m3u8
+瞒天过海,https://s5.bfbfvip.com/video/mantianguohai/HD/index.m3u8
+非诚勿扰3,https://yzzy1.play-cdn20.com/20240210/16640_403958bf/2000k/hls/index.m3u8
+史上最强弟子,https://yzzy.play-cdn19.com/20240209/19332_06c6451f/2000k/hls/index.m3u8
+长津湖,https://s1.bfzycdn.com/video/changjinhu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
+长津湖之水门桥,https://cdn17.yzzy-online.com/20230817/16230_2dbddb92/2000k/hls/index.m3u8
+一闪一闪亮星星,https://ikcdn01.ikzybf.com/20240213/vWZ9ePUu/2000kb/hls/index.m3u8
+照明商店,https://yzzy.play-cdn19.com/20240213/19794_4de23d38/2000k/hls/index.m3u8#
+年会不能停,https://yzzy.play-cdn19.com/20240213/19788_da07138c/2000k/hls/index.m3u8
+北冥有鲲,https://vip.ffzy-online6.com/20240211/26120_e94353cd/2000k/hls/index.m3u8
+四平警事之钻石大劫案,https://v.cdnlz2.com/20240206/28771_69d6e63e/2000k/hls/mixed.m3u8
+露梁海战,https://v.cdnlz19.com/20240205/13018_c311202b/2000k/hls/mixed.m3u8
+黑白潜行,https://vip.ffzy-online6.com/20240204/25747_fb206ff2/2000k/hls/index.m3u8
+三大队,https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
+我本是高山,https://v.cdnlz12.com/20240128/11176_b475b264/2000k/hls/mixed.m3u8
+长白山猎人传说,https://vip.ffzy-online6.com/20240130/25459_dbbc3359/2000k/hls/index.m3u8
+[美]无法治愈,https://vip.lz-cdn3.com/20220624/8306_5b24c626/1000k/hls/mixed.m3u8
+[美]养蜂人抢先,https://www.yzzy.play-cdn20.com/20240130/14212_512dac09/2000k/hls/index.m3u8
+孤注一掷,https://v.cdnlz12.com/20240131/11213_0006f281/2000k/hls/mixed.m3u8
+大冒险王之金丝玉盘,https://s5.bfbfvip.com/video/damaoxianwangzhijinsiyupan/HD/index.m3u8
+[国]爆裂点,https://v.cdnlz3.com/20240126/22924_311317eb/2000k/hls/mixed.m3u8
+[韩]荒野,https://v.cdnlz2.com/20240126/28294_cdfab943/2000k/hls/mixed.m3u8
+挡马夺刀,https://www.yzzy.play-cdn20.com/20240125/13928_02451c32/2000k/hls/index.m3u8
+速度与激情10,https://vip.lz-cdn3.com/20230609/19446_bd6c3340/2000k/hls/mixed.m3u8
+再见.李可乐,https://v.cdnlz12.com/20240124/11081_e095c299/2000k/hls/mixed.m3u8
+海王2.失落的王国,https://v.cdnlz12.com/20240123/11056_97ad71a3/2000k/hls/mixed.m3u8
+涉过愤怒的海,https://v.cdnlz3.com/20240112/22740_9e90a3db/2000k/hls/mixed.m3u8
+一击2.城市混战,https://cdn1.vip-vip-yzzy.com/20240112/11718_c34d3123/2000k/hls/index.m3u8
+刀尖,https://v.cdnlz12.com/20240117/11012_3f5cf514/2000k/hls/mixed.m3u8
+志愿军：雄兵出击,https://dghls.mcloud.139.com/hls/L1c36c04a53255f72579c1f62fe2ad8e1b/single/video/0/376/index.m3u8
+毒液2,https://vip.lzcdn2.com/20220530/7945_ffa14188/1200k/hls/mixed.m3u8
+西装暴徒,https://v.cdnlz3.com/20240118/22835_82f61c7e/2000k/hls/mixed.m3u8
+开国将帅授衔1955,https://cdn1.vip-vip-yzzy.com/20240113/12061_d95d9068/2000k/hls/index.m3u8
+粽邪3.鬼门开 ,https://ukzy.ukubf3.com/20231219/XiwVy98L/2000kb/hls/index.m3u8
+怪物,https://v.cdnlz3.com/20240106/22647_12bced2d/2000k/hls/index.m3u8
+月球叛军：火之女,https://v.cdnlz11.com/20231222/18799_a3ec4c15/2000k/hls/mixed.m3u8
+画江湖之不良帅,https://v.cdnlz11.com/20240111/19241_3af8d963/2000k/hls/mixed.m3u8
+追缉,https://v.cdnlz3.com/20231231/22557_d6b334ec/2000k/hls/mixed.m3u8
+无价之宝,https://cdn1.vip-vip-yzzy.com/20231228/10597_1384c055/2000k/hls/index.m3u8
+千鹤先生,https://v.cdnlz12.com/20240125/11104_24ac3055/2000k/hls/mixed.m3u8
+[韩]野兽们的战争,https://v.cdnlz11.com/20231217/18739_fd0f9b07/2000k/hls/mixed.m3u8
+二手杰作,https://v.cdnlz4.com/20231226/26302_f7a2357f/2000k/hls/mixed.m3u8
+不日成婚2,https://yzzy.play-cdn19.com/20231214/10520_b17d82c4/2000k/hls/index.m3u8
+好像也没那么热血沸腾,https://yzzy.play-cdn16.com/20231213/27660_19c61f1e/2000k/hls/index.m3u8
+[美]惊奇队长2,https://v1.cdnlz1.com/20231208/24476_e5cafe33/2000k/hls/mixed.m3u8
+前任4.英年早婚,https://s5.bfbfvip.com/video/qianren4yingnianzaohun/HD/index.m3u8
+[韩]毒战2,https://v.cdnlz4.com/20231117/26156_c60ebe89/2000k/hls/mixed.m3u8
 🍑梯台,#genre#
 三立台湾台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
