@@ -91,7 +91,6 @@ TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3
 港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -155,6 +154,97 @@ TVBS(B),P2p://generationnexxxt.com:19806/be3d1c188f0c4b938ccfca04566b0fc1
 TVBS新闻台(B),P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
 年代新闻(B),P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
 非凡新闻台(B),P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+看台,#genre#
+TVBS HD,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv073
+TVBS鏂伴椈鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv072
+涓ぉ鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv009
+涓ぉ浜氭床鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv109
+鍙拌鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv051
+鍗庤鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv052
+鍙拌璐㈢粡,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv056
+涓鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv074
+闈炲嚒鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv010
+闀滄柊闂 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv075
+涓滄．鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv152
+涓滄．璐㈢粡鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv153
+鍗婂矝鏂伴椈,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv10
+姘戣鏂伴椈鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv13
+姘戣鍙版咕鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv001
+瀵板畤鏂伴椈鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn14
+瀵板畤鏂伴椈鍙版咕鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn15
+鍙拌,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv066
+姘戣,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv002
+姘戣,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv155
+涓,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv040
+鍗庤,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
+姘戣鍙版咕鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv156
+褰辫糠鏁镐綅闆诲奖鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv011
+AMC鐢靛奖鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv017
+CATCHPLAY鐢靛奖鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
+闈栧ぉ鐢靛奖鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv061
+榫欏崕鐢靛奖,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn03
+閲囨槍褰卞墽,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv049
+姘戣褰卞墽,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv09
+榫欏崕缁忓吀,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn21
+涓缁忓吀,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv080
+鍙版咕鎴忓墽鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn22
+闈栨磱鎴忓墽鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv045
+闈栧ぉ鎴忓墽鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv058
+鍏鎴忓墽,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv042
+榫欏崕鎴忓墽,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn1
+鏅烘灄浣撹偛鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv101
+鏃跺皻杩愬姩X,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv014
+闈栧ぉ鑲蹭箰鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv062
+鍗氭柉榄呭姏,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn04
+鍗氭柉楂樼悆1,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn05
+鍗氭柉楂樼悆2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn06
+鍗氭柉杩愬姩1,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn07
+鍗氭柉杩愬姩2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn08
+鍗氭柉缃戠悆,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn09
+鍗氭柉鏃犻檺,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn10
+鍗氭柉鏃犻檺2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn13
+TRACE SPORTS STARS,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv077
+瑕栫磵鑿粊绱€瀵﹂牷閬 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv013
+涓鑿侀噰,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv064
+鍏ぇ绮惧僵鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv034
+鍏ぇ缁艰壓鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv039
+TVBS绮鹃噰鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv067
+TVBS娆箰鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv068
+闈栧ぉ娆箰鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv054
+闈栧ぉ缁煎悎鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv046
+闈栧ぉ璧勮鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv065
+闈栧ぉ鍗￠€氬彴,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv044
+闈栧ぉ鏃ユ湰鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv047
+闈栨磱鍗￠€氬彴,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv057
+闈栧ぉ鍥介檯鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv063
+闈栧ぉ鏄犵敾,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv055
+鐖卞皵杈惧ū涔 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv070
+榫欏崕鍗￠€ ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn01
+榫欏崕鏃ラ煩,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn11
+榫欏崕鍋跺儚,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn12
+姘戣缁艰壓,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv004
+姘戣绗竴鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv003
+姘戣鏃呮父,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv07
+浜氭床鏃呮父鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn17
+瀹㈠鐢佃鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv043
+鐖辨斁鍔ㄦ极,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv15
+鍙ゅ吀闊充箰鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv059
+鐚摜浜瓕鍘呯,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv006
+Smart鐭ヨ瘑鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
+杈炬枃瑗块閬 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv018
+闃块噷閮 ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv079
+鐢熸椿鑻辫鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn20
+鍥介檯璐㈢粡,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv104
+缇庡浗涔嬮煶,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv03
+濂芥秷鎭 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv16
+濂芥秷鎭 2鍙 ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv17
+闈炲嚒鍟嗕笟,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv048
+鍥戒細棰戦亾1,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv084
+鍥戒細棰戦亾2,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv085
+TRACE URBAN,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv082
+MEZZO LIVE,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv083
+GLOBETROTTER,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv016
+GinxTV,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv053
 晴天,#genre#
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港文旅,http://ali-play.lezhibo.com:80/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
