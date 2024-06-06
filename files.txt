@@ -1,10 +1,10 @@
 央视,#genre#
-🇨🇳CCTV1FHD,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
-🇨🇳CCTV2FHD,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
+🇨🇳CCTV1FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+🇨🇳CCTV2FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 🇨🇳CCTV3FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 🇨🇳CCTV4FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-🇨🇳CCTV5FHD,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
-🇨🇳CCTV5+,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+🇨🇳CCTV5FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+🇨🇳CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 🇨🇳CCTV6FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 🇨🇳CCTV7FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 🇨🇳CCTV8FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
@@ -19,9 +19,6 @@
 🇨🇳CCTV17FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 🇨🇳CCTV18FHD,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 🇨🇳CCTV19FHD,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-🇨🇳CCTV21FHD,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-🇨🇳CCTV22FHD,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-🇨🇳CCTV23FHD,http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
 卫视,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
