@@ -19,6 +19,7 @@
 🇨🇳CCTV17FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 🇨🇳CCTV18FHD,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 🇨🇳CCTV19FHD,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+🇨🇳CCTV20FHD,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 卫视,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
