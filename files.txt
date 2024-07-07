@@ -116,7 +116,6 @@ astro欢喜台,https://live.yzd.jialiangos.com:4443/live/fhw/176$凤凰网
 astroQJ,https://live.yzd.jialiangos.com:4443/live/fhw/177$凤凰网
 astro AOD,https://live.yzd.jialiangos.com:4443/live/fhw/179$凤凰网
 爱奇艺,https://live.yzd.jialiangos.com:4443/live/fhw/180$凤凰网
-台湾频道,#genre#
 中视,https://live.yzd.jialiangos.com:4443/live/fhw/35$凤凰网
 民视,https://live.yzd.jialiangos.com:4443/live/fhw/36$凤凰网
 华视,https://live.yzd.jialiangos.com:4443/live/fhw/38$凤凰网
@@ -199,7 +198,6 @@ DAZN2,https://live.yzd.jialiangos.com:4443/live/fhw/60$凤凰网
 动物星球,https://live.yzd.jialiangos.com:4443/live/fhw/126$凤凰网
 MTV,https://live.yzd.jialiangos.com:4443/live/fhw/134$凤凰网
 Z频道,https://live.yzd.jialiangos.com:4443/live/fhw/77$凤凰网
-海外频道,#genre#
 56,https://live.yzd.jialiangos.com:4443/live/fhw/56$凤凰网
 SONY SPORTS1,https://live.yzd.jialiangos.com:4443/live/fhw/66$凤凰网
 SONY SPORTS2,https://live.yzd.jialiangos.com:4443/live/fhw/67$凤凰网
