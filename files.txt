@@ -63,6 +63,213 @@
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+凤凰秒切,#genre#
+凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$国内代理
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$国内代理
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$国内代理
+凤凰中文台,https://live.yzd.jialiangos.com:4443/live/fhw/182$凤凰网
+凤凰资讯台,https://live.yzd.jialiangos.com:4443/live/fhw/183$凤凰网
+凤凰香港台,https://live.yzd.jialiangos.com:4443/live/fhw/184$凤凰网
+TVB无线新闻,https://live.yzd.jialiangos.com:4443/live/fhw/13$凤凰网
+TVB翡翠台,https://live.yzd.jialiangos.com:4443/live/fhw/2$凤凰网
+华丽翡翠台,https://live.yzd.jialiangos.com:4443/live/fhw/178$凤凰网
+TVB明珠台,https://live.yzd.jialiangos.com:4443/live/fhw/3$凤凰网
+TVB明珠剧集台,https://live.yzd.jialiangos.com:4443/live/fhw/202$凤凰网
+TVB Plus,https://live.yzd.jialiangos.com:4443/live/fhw/5$凤凰网
+TVB娱乐新闻台,https://live.yzd.jialiangos.com:4443/live/fhw/10$凤凰网
+TVB千禧经典,https://live.yzd.jialiangos.com:4443/live/fhw/198$凤凰网
+TVB星河,https://live.yzd.jialiangos.com:4443/live/fhw/4$凤凰网
+TVB功夫台,https://live.yzd.jialiangos.com:4443/live/fhw/12$凤凰网
+HKC18,https://live.yzd.jialiangos.com:4443/live/fhw/18$凤凰网
+HOY76,https://live.yzd.jialiangos.com:4443/live/fhw/16$凤凰网
+HOY77,https://live.yzd.jialiangos.com:4443/live/fhw/1$凤凰网
+HOY78,https://live.yzd.jialiangos.com:4443/live/fhw/15$凤凰网
+美亚电影(粤),https://live.yzd.jialiangos.com:4443/live/fhw/9$凤凰网
+天映频道(粤),https://live.yzd.jialiangos.com:4443/live/fhw/110$凤凰网
+天映经典,https://live.yzd.jialiangos.com:4443/live/fhw/111$凤凰网
+thrill,https://live.yzd.jialiangos.com:4443/live/fhw/121$凤凰网
+黄金华剧台,https://live.yzd.jialiangos.com:4443/live/fhw/28$凤凰网
+Mytv千禧经典,https://live.yzd.jialiangos.com:4443/live/fhw/11$凤凰网
+Mytv华语剧,https://live.yzd.jialiangos.com:4443/live/fhw/8$凤凰网
+Mytv亚洲剧,https://live.yzd.jialiangos.com:4443/live/fhw/7$凤凰网
+Mytv superfree,https://live.yzd.jialiangos.com:4443/live/fhw/24$凤凰网
+Mytv Hands Up,https://live.yzd.jialiangos.com:4443/live/fhw/25$凤凰网
+Mytv黄金翡翠台,https://live.yzd.jialiangos.com:4443/live/fhw/201$凤凰网
+Mytv粤语片,https://live.yzd.jialiangos.com:4443/live/fhw/6$凤凰网
+Mytv戏曲台,https://live.yzd.jialiangos.com:4443/live/fhw/200$凤凰网
+now星影台,https://live.yzd.jialiangos.com:4443/live/fhw/186$凤凰网
+now爆谷台,https://live.yzd.jialiangos.com:4443/live/fhw/187$凤凰网
+now新闻台,https://live.yzd.jialiangos.com:4443/live/fhw/21$凤凰网
+now106,https://live.yzd.jialiangos.com:4443/live/fhw/22$凤凰网
+now财经台,https://live.yzd.jialiangos.com:4443/live/fhw/23$凤凰网
+now直播台,https://live.yzd.jialiangos.com:4443/live/fhw/27$凤凰网
+now SPORTS PRIME,https://live.yzd.jialiangos.com:4443/live/fhw/194$凤凰网
+now SPORTS7台,https://live.yzd.jialiangos.com:4443/live/fhw/197$凤凰网
+RTHK31,https://live.yzd.jialiangos.com:4443/live/fhw/29$凤凰网
+RTHK32,https://live.yzd.jialiangos.com:4443/live/fhw/30$凤凰网
+澳门莲花,https://live.yzd.jialiangos.com:4443/live/fhw/17$凤凰网
+ViU,https://live.yzd.jialiangos.com:4443/live/fhw/193$凤凰网
+ViUTV,https://live.yzd.jialiangos.com:4443/live/fhw/19$凤凰网
+ViUTV6,https://live.yzd.jialiangos.com:4443/live/fhw/20$凤凰网
+astro AEC,https://live.yzd.jialiangos.com:4443/live/fhw/175$凤凰网
+astro欢喜台,https://live.yzd.jialiangos.com:4443/live/fhw/176$凤凰网
+astroQJ,https://live.yzd.jialiangos.com:4443/live/fhw/177$凤凰网
+astro AOD,https://live.yzd.jialiangos.com:4443/live/fhw/179$凤凰网
+爱奇艺,https://live.yzd.jialiangos.com:4443/live/fhw/180$凤凰网
+台湾频道,#genre#
+中视,https://live.yzd.jialiangos.com:4443/live/fhw/35$凤凰网
+民视,https://live.yzd.jialiangos.com:4443/live/fhw/36$凤凰网
+华视,https://live.yzd.jialiangos.com:4443/live/fhw/38$凤凰网
+公视,https://live.yzd.jialiangos.com:4443/live/fhw/39$凤凰网
+TVBS HD,https://live.yzd.jialiangos.com:4443/live/fhw/140$凤凰网
+TVBS新闻台,https://live.yzd.jialiangos.com:4443/live/fhw/139$凤凰网
+中天新闻,https://live.yzd.jialiangos.com:4443/live/fhw/141$凤凰网
+中视新闻,https://live.yzd.jialiangos.com:4443/live/fhw/143$凤凰网
+民视新闻台,https://live.yzd.jialiangos.com:4443/live/fhw/144$凤凰网
+寰宇新闻台,https://live.yzd.jialiangos.com:4443/live/fhw/147$凤凰网
+寰宇新闻台湾台,https://live.yzd.jialiangos.com:4443/live/fhw/158$凤凰网
+华视新闻,https://live.yzd.jialiangos.com:4443/live/fhw/153$凤凰网
+非凡新闻,https://live.yzd.jialiangos.com:4443/live/fhw/154$凤凰网
+年代新闻,https://live.yzd.jialiangos.com:4443/live/fhw/155$凤凰网
+台视新闻,https://live.yzd.jialiangos.com:4443/live/fhw/148$凤凰网
+三立新闻台,https://live.yzd.jialiangos.com:4443/live/fhw/195$凤凰网
+壹新闻,https://live.yzd.jialiangos.com:4443/live/fhw/149$凤凰网
+镜新闻,https://live.yzd.jialiangos.com:4443/live/fhw/152$凤凰网
+CTI+,https://live.yzd.jialiangos.com:4443/live/fhw/142$凤凰网
+东森LIVE,https://live.yzd.jialiangos.com:4443/live/fhw/145$凤凰网
+三立LIVE,https://live.yzd.jialiangos.com:4443/live/fhw/151$凤凰网
+东森财经新闻,https://live.yzd.jialiangos.com:4443/live/fhw/146$凤凰网
+TVBS欢乐台,https://live.yzd.jialiangos.com:4443/live/fhw/31$凤凰网
+中天娱乐台,https://live.yzd.jialiangos.com:4443/live/fhw/32$凤凰网
+中天综合台,https://live.yzd.jialiangos.com:4443/live/fhw/33$凤凰网
+中天亚洲台,https://live.yzd.jialiangos.com:4443/live/fhw/34$凤凰网
+八大第一台,https://live.yzd.jialiangos.com:4443/live/fhw/40$凤凰网
+八大综合台,https://live.yzd.jialiangos.com:4443/live/fhw/41$凤凰网
+八大戏剧台,https://live.yzd.jialiangos.com:4443/live/fhw/42$凤凰网
+八大精彩台,https://live.yzd.jialiangos.com:4443/live/fhw/43$凤凰网
+爱尔达戏剧台,https://live.yzd.jialiangos.com:4443/live/fhw/57$凤凰网
+民视第一台,https://live.yzd.jialiangos.com:4443/live/fhw/45$凤凰网
+民视台湾台,https://live.yzd.jialiangos.com:4443/live/fhw/37$凤凰网
+三立综合台,https://live.yzd.jialiangos.com:4443/live/fhw/46$凤凰网
+三立戏剧台,https://live.yzd.jialiangos.com:4443/live/fhw/47$凤凰网
+三立台湾台,https://live.yzd.jialiangos.com:4443/live/fhw/44$凤凰网
+三立都会台,https://live.yzd.jialiangos.com:4443/live/fhw/26$凤凰网
+东森电影,https://live.yzd.jialiangos.com:4443/live/fhw/104$凤凰网
+东森洋片,https://live.yzd.jialiangos.com:4443/live/fhw/105$凤凰网
+东森戏剧,https://live.yzd.jialiangos.com:4443/live/fhw/106$凤凰网
+东森综合,https://live.yzd.jialiangos.com:4443/live/fhw/48$凤凰网
+东森超视,https://live.yzd.jialiangos.com:4443/live/fhw/49$凤凰网
+龙华戏剧,https://live.yzd.jialiangos.com:4443/live/fhw/50$凤凰网
+龙华经典,https://live.yzd.jialiangos.com:4443/live/fhw/51$凤凰网
+龙华偶像,https://live.yzd.jialiangos.com:4443/live/fhw/52$凤凰网
+龙华电影,https://live.yzd.jialiangos.com:4443/live/fhw/112$凤凰网
+龙华洋片,https://live.yzd.jialiangos.com:4443/live/fhw/107$凤凰网
+龙祥时代,https://live.yzd.jialiangos.com:4443/live/fhw/108$凤凰网
+纬来电影,https://live.yzd.jialiangos.com:4443/live/fhw/103$凤凰网
+私人影院,https://live.yzd.jialiangos.com:4443/live/fhw/109$凤凰网
+美亚电影,https://live.yzd.jialiangos.com:4443/live/fhw/113$凤凰网
+采昌剧集,https://live.yzd.jialiangos.com:4443/live/fhw/114$凤凰网
+好莱坞电影,https://live.yzd.jialiangos.com:4443/live/fhw/100$凤凰网
+CINEMAX,https://live.yzd.jialiangos.com:4443/live/fhw/101$凤凰网
+AXN,https://live.yzd.jialiangos.com:4443/live/fhw/102$凤凰网
+HBO,https://live.yzd.jialiangos.com:4443/live/fhw/96$凤凰网
+HBO Signature,https://live.yzd.jialiangos.com:4443/live/fhw/97$凤凰网
+HBO HiTS,https://live.yzd.jialiangos.com:4443/live/fhw/98$凤凰网
+HBO family,https://live.yzd.jialiangos.com:4443/live/fhw/99$凤凰网
+东森幼幼,https://live.yzd.jialiangos.com:4443/live/fhw/191$凤凰网
+CN卡通频道,https://live.yzd.jialiangos.com:4443/live/fhw/185$凤凰网
+靖天卡通台,https://live.yzd.jialiangos.com:4443/live/fhw/55$凤凰网
+靖天国际台,https://live.yzd.jialiangos.com:4443/live/fhw/53$凤凰网
+纬来日本,https://live.yzd.jialiangos.com:4443/live/fhw/54$凤凰网
+公视3,https://live.yzd.jialiangos.com:4443/live/fhw/199$凤凰网
+爱尔达体育1台,https://live.yzd.jialiangos.com:4443/live/fhw/188$凤凰网
+爱尔达体育2台,https://live.yzd.jialiangos.com:4443/live/fhw/189$凤凰网
+爱尔达体育3台,https://live.yzd.jialiangos.com:4443/live/fhw/190$凤凰网
+爱尔达体育4台4,https://live.yzd.jialiangos.com:4443/live/fhw/14$凤凰网
+纬来体育,https://live.yzd.jialiangos.com:4443/live/fhw/58$凤凰网
+DAZN1,https://live.yzd.jialiangos.com:4443/live/fhw/59$凤凰网
+DAZN2,https://live.yzd.jialiangos.com:4443/live/fhw/60$凤凰网
+博斯运动1,https://live.yzd.jialiangos.com:4443/live/fhw/61$凤凰网
+博斯运动2,https://live.yzd.jialiangos.com:4443/live/fhw/62$凤凰网
+博斯高球1,https://live.yzd.jialiangos.com:4443/live/fhw/63$凤凰网
+博斯高球2,https://live.yzd.jialiangos.com:4443/live/fhw/64$凤凰网
+博斯网球,https://live.yzd.jialiangos.com:4443/live/fhw/65$凤凰网
+博斯无限2,https://live.yzd.jialiangos.com:4443/live/fhw/89$凤凰网
+亚洲旅游台,https://live.yzd.jialiangos.com:4443/live/fhw/131$凤凰网
+动物星球,https://live.yzd.jialiangos.com:4443/live/fhw/126$凤凰网
+MTV,https://live.yzd.jialiangos.com:4443/live/fhw/134$凤凰网
+Z频道,https://live.yzd.jialiangos.com:4443/live/fhw/77$凤凰网
+海外频道,#genre#
+56,https://live.yzd.jialiangos.com:4443/live/fhw/56$凤凰网
+SONY SPORTS1,https://live.yzd.jialiangos.com:4443/live/fhw/66$凤凰网
+SONY SPORTS2,https://live.yzd.jialiangos.com:4443/live/fhw/67$凤凰网
+68,https://live.yzd.jialiangos.com:4443/live/fhw/68$凤凰网
+69,https://live.yzd.jialiangos.com:4443/live/fhw/69$凤凰网
+EURO SPORT1,https://live.yzd.jialiangos.com:4443/live/fhw/70$凤凰网
+71,https://live.yzd.jialiangos.com:4443/live/fhw/71$凤凰网
+TSN1,https://live.yzd.jialiangos.com:4443/live/fhw/72$凤凰网
+TSN2,https://live.yzd.jialiangos.com:4443/live/fhw/73$凤凰网
+TSN3,https://live.yzd.jialiangos.com:4443/live/fhw/74$凤凰网
+75,https://live.yzd.jialiangos.com:4443/live/fhw/75$凤凰网
+NBATV,https://live.yzd.jialiangos.com:4443/live/fhw/76$凤凰网
+GOLF,https://live.yzd.jialiangos.com:4443/live/fhw/78$凤凰网
+TNT SPORTS1,https://live.yzd.jialiangos.com:4443/live/fhw/79$凤凰网
+TNT SPORTS2,https://live.yzd.jialiangos.com:4443/live/fhw/80$凤凰网
+TNT SPORTS3,https://live.yzd.jialiangos.com:4443/live/fhw/81$凤凰网
+TNT SPORTS4,https://live.yzd.jialiangos.com:4443/live/fhw/82$凤凰网
+astro ARENA,https://live.yzd.jialiangos.com:4443/live/fhw/83$凤凰网
+astro ARENA2,https://live.yzd.jialiangos.com:4443/live/fhw/84$凤凰网
+85,https://live.yzd.jialiangos.com:4443/live/fhw/85$凤凰网
+86,https://live.yzd.jialiangos.com:4443/live/fhw/86$凤凰网
+87,https://live.yzd.jialiangos.com:4443/live/fhw/87$凤凰网
+88,https://live.yzd.jialiangos.com:4443/live/fhw/88$凤凰网
+90,https://live.yzd.jialiangos.com:4443/live/fhw/90$凤凰网
+91,https://live.yzd.jialiangos.com:4443/live/fhw/91$凤凰网
+92,https://live.yzd.jialiangos.com:4443/live/fhw/92$凤凰网
+NBATV,https://live.yzd.jialiangos.com:4443/live/fhw/93$凤凰网
+sky sports golf,https://live.yzd.jialiangos.com:4443/live/fhw/94$凤凰网
+95,https://live.yzd.jialiangos.com:4443/live/fhw/95$凤凰网
+115,https://live.yzd.jialiangos.com:4443/live/fhw/115$凤凰网
+116,https://live.yzd.jialiangos.com:4443/live/fhw/116$凤凰网
+117,https://live.yzd.jialiangos.com:4443/live/fhw/117$凤凰网
+KIX,https://live.yzd.jialiangos.com:4443/live/fhw/118$凤凰网
+119,https://live.yzd.jialiangos.com:4443/live/fhw/119$凤凰网
+ONe,https://live.yzd.jialiangos.com:4443/live/fhw/120$凤凰网
+HITS,https://live.yzd.jialiangos.com:4443/live/fhw/122$凤凰网
+tvN MOVIES,https://live.yzd.jialiangos.com:4443/live/fhw/123$凤凰网
+124,https://live.yzd.jialiangos.com:4443/live/fhw/124$凤凰网
+125,https://live.yzd.jialiangos.com:4443/live/fhw/125$凤凰网
+127,https://live.yzd.jialiangos.com:4443/live/fhw/127$凤凰网
+DMAX,https://live.yzd.jialiangos.com:4443/live/fhw/128$凤凰网
+SCI,https://live.yzd.jialiangos.com:4443/live/fhw/129$凤凰网
+130,https://live.yzd.jialiangos.com:4443/live/fhw/130$凤凰网
+132,https://live.yzd.jialiangos.com:4443/live/fhw/132$凤凰网
+133,https://live.yzd.jialiangos.com:4443/live/fhw/133$凤凰网
+136,https://live.yzd.jialiangos.com:4443/live/fhw/136$凤凰网
+137,https://live.yzd.jialiangos.com:4443/live/fhw/137$凤凰网
+HGTV,https://live.yzd.jialiangos.com:4443/live/fhw/138$凤凰网
+150,https://live.yzd.jialiangos.com:4443/live/fhw/150$凤凰网
+156,https://live.yzd.jialiangos.com:4443/live/fhw/156$凤凰网
+157,https://live.yzd.jialiangos.com:4443/live/fhw/157$凤凰网
+159,https://live.yzd.jialiangos.com:4443/live/fhw/159$凤凰网
+DW,https://live.yzd.jialiangos.com:4443/live/fhw/160$凤凰网
+CNN,https://live.yzd.jialiangos.com:4443/live/fhw/161$凤凰网
+162,https://live.yzd.jialiangos.com:4443/live/fhw/162$凤凰网
+163,https://live.yzd.jialiangos.com:4443/live/fhw/163$凤凰网
+164,https://live.yzd.jialiangos.com:4443/live/fhw/164$凤凰网
+CGTN,https://live.yzd.jialiangos.com:4443/live/fhw/165$凤凰网
+166,https://live.yzd.jialiangos.com:4443/live/fhw/166$凤凰网
+167,https://live.yzd.jialiangos.com:4443/live/fhw/167$凤凰网
+NHK world,https://live.yzd.jialiangos.com:4443/live/fhw/168$凤凰网
+169,https://live.yzd.jialiangos.com:4443/live/fhw/169$凤凰网
+华藏,https://live.yzd.jialiangos.com:4443/live/fhw/171$凤凰网
+Z GOLF,https://live.yzd.jialiangos.com:4443/live/fhw/172$凤凰网
+173,https://live.yzd.jialiangos.com:4443/live/fhw/173$凤凰网
+ONEGOLF,https://live.yzd.jialiangos.com:4443/live/fhw/174$凤凰网
+181,https://live.yzd.jialiangos.com:4443/live/fhw/181$凤凰网
+曼联电视台,https://live.yzd.jialiangos.com:4443/live/fhw/192$凤凰网
+sky SPORTS cricket,https://live.yzd.jialiangos.com:4443/live/fhw/196$凤凰网
+BBC EARTH,https://live.yzd.jialiangos.com:4443/live/fhw/135$凤凰网
 秒香港台,#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
